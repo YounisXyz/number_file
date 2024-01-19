@@ -50,15 +50,14 @@ last
 07860786
 
 **[FOR BANGLADESH]** first
-\nlast
-\njannat
-sumaiya
-I love you
-203040
-Jannat
-sadiya
-Bangladesh
-bangladesh
+/ last / jannat
+ / sumaiya
+ / i love you
+ / 203040
+/ Jannat
+/ sadiya
+/ Bangladesh
+/ bangladesh
 
 ```
     - No login 🔰 
