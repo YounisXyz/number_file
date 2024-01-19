@@ -32,9 +32,9 @@
 
 - `cd`
 - `clear`
-- `rm -rf nunber_file`
-- `git clone https://github.com/YounisXyz/nunber_file`
-- `cd nunber_file`
+- `rm -rf number_file`
+- `git clone https://github.com/YounisXyz/number_file`
+- `cd number_file`
 - `python dump.py`
 
 ##
