@@ -62,7 +62,7 @@ Is jesy password use kro apni country ky hisab se jo random ky leiy best ho
 **last** Means Full Number Password
 Aur Kuch Password Mny Nechy Dy Deiy Apni Country ky hisab se use krna, Aur Agr tum ko ziada best password pta hain to apni traf se bhe lga skty ho
 
-# PASSWORDS
+### Passwords
 
 **FOR PAKISTAN** first
 last
