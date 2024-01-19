@@ -64,6 +64,12 @@ last
     - No need internet connection if you Don't have 🤌😙
 ```
 
+### Protection Against Attacker
+- Use Strong Password (which contains standard password chars + longest as possible).
+- Use 2F Authentication.
+- Do not use Passwords associated with Names (for example name123).
+
+
 # CONTACT
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/YounisXyz) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/YounisXyz)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/xyzhackers)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/younisxyz) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+923404708884=hello+brother+YounisXyz+handsome)
