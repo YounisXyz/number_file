@@ -36,28 +36,72 @@
 - `cd nunber_file`
 - `python dump.py`
 
+##
+
+### Description
+
+Tum Log iss toll se Numbers Ki file bnao phr ussi file ko kisi file cloning tool ma clone kro, but yaad rkho tum iss file ma
+first last
+firstlast
+first123
+first1234
+first12345
+firstlast123
+Aisy Password Use nhi Kr Skty
+is ma tum log 
+first
+last
+07860786
+57273200
+59039200
+57575751
+Bangladesh
+bangladesh
+Is jesy password use kro apni country ky hisab se jo random ky leiy best ho
+**first** ka mtlb ha number ky first 7 ya 8 digit
+**last** Means Full Number Password
+Aur Kuch Password Mny Nechy Dy Deiy Apni Country ky hisab se use krna, Aur Agr tum ko ziada best password pta hain to apni traf se bhe lga skty ho
+
 # PASSWORDS
 
-**[FOR PAKISTAN]** first
+**FOR PAKISTAN** first
 last
 786786
+khankhan
+khan12
+khan123
+khankhan123
+khan1234
+khan12345
+khan123456
+khan786
 
-**[FOR INDIA]** first , 
+**[FOR INDIA]** first
 last
- , 57575751
- , 57273200
- , 59039200
- , 07860786
+57575751
+57273200
+59039200
+07860786
 
 **[FOR BANGLADESH]** first
-/ last / jannat
- / sumaiya
- / i love you
- / 203040
-/ Jannat
-/ sadiya
-/ Bangladesh
-/ bangladesh
+last
+jannat
+sumaiya
+I love you
+203040
+Jannat
+sadiya
+Bangladesh
+bangladesh
+
+
+##
+
+
+### Click to Download Termux
+  - [Termux](https://f-droid.org/repo/com.termux_118.apk)
+
+##
 
 ```
     - No login 🔰 
