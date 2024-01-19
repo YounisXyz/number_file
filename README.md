@@ -1,8 +1,9 @@
 
 
 - [BASICMODULES](#basicmodules) 
-- [RUN](#run) 
-- [PASSWORDS](#passwords)
+- [RUN](#run)
+- [Description](#description)
+- [Passwords](#passwords)
 - [CONTACT](#contact)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/YounisXyz/number_file.svg?style=social&label=Watch)](https://GitHub.com/YounisXyz/number_file/watchers/)
@@ -64,35 +65,35 @@ Aur Kuch Password Mny Nechy Dy Deiy Apni Country ky hisab se use krna, Aur Agr t
 
 ### Passwords
 
-**FOR PAKISTAN** first
-last
-786786
-khankhan
-khan12
-khan123
-khankhan123
-khan1234
-khan12345
-khan123456
-khan786
+**FOR PAKISTAN** first , 
+  last
+ , 786786
+ , khankhan
+ , khan12
+ , khan123
+ , khankhan123
+ , khan1234
+ , khan12345
+ , khan123456
+ , khan786
 
-**[FOR INDIA]** first
-last
-57575751
-57273200
-59039200
-07860786
+**[FOR INDIA]** first 
+ , last
+ , 57575751
+ , 57273200
+ , 59039200
+ , 07860786
 
-**[FOR BANGLADESH]** first
-last
-jannat
-sumaiya
-I love you
-203040
-Jannat
-sadiya
-Bangladesh
-bangladesh
+**[FOR BANGLADESH]** first , 
+  last
+ , jannat
+ , sumaiya
+ , i love you
+ , 203040
+ , Jannat
+ , sadiya
+ , Bangladesh
+ , bangladesh
 
 
 ##
